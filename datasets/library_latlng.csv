@@ -1,0 +1,48 @@
+Column1,library_area,library_nm,library_addr,Latitude,Longitude,library_tel,library_hompage
+0,강서구,강서기적의도서관,강서구 명지오션시티10로 80(명지동),35.087463,128.9066545,051-970-2317,https://library.bsgangseo.go.kr/intro.php
+1,강서구,강서도서관,강서구 공항로811번길 10,35.1802062,128.9572162,051-970-4068,https://library.bsgangseo.go.kr/intro.php
+2,강서구,지사도서관,강서구 과학산단2로20번길 5(지사문화회관 3층),35.1516079,128.8311284,051-970-2777,https://library.bsgangseo.go.kr/jslib/
+3,금정구,금정도서관,금정구 청룡동 금정도서관로 33,35.272745,129.0961372,051-519-5601,https://library.geumjeong.go.kr/index.geumj
+4,금정구,서동도서관,금정구 서부로76번길 5,35.2198733,129.0994741,051-522-0456,https://home.pen.go.kr/seodonglib/main.do
+5,기장군,고촌어울림도서관,기장군 기장읍 차성서로 86(백두공원 내),35.2408341,129.2105895,051-709-5381~2,https://library.gijang.go.kr/gochon/main.do
+6,기장군,기장도서관,기장군 기장읍 차성동로 126번길 13-5,35.2496248,129.2166958,051-709-5327,https://library.gijang.go.kr/main.do
+7,기장군,기장디지털도서관,기장군 기장읍 기장대로 560 기장군청 7층,35.2443043,129.2225796,051-709-5071,http://dlib.gijang.go.kr/main.do
+8,기장군,내리새라도서관,기장군 기장읍 기장대로 51,35.2019347,129.2061791,051-709-3967~3969,https://library.gijang.go.kr/naeri/main.do
+9,기장군,대라다목적도서관,기장군 기장읍 차성서로 86,35.2408341,129.2105895,051-709-3961,https://library.gijang.go.kr/main.do
+10,기장군,정관도서관,기장군 정관읍 정관중앙로 100,35.326496,129.184521,051-709-3918,https://library.gijang.go.kr/main.do
+11,기장군,정관어린이도서관,기장군 정관읍 정관8로 11,35.3234833,129.1782952,051-709-5386,http://jgchildlib.gijang.go.kr/main.do
+12,남구,남구도서관,남구 수영로267번길 61,35.1379688,129.0947961,051-607-6566,http://library.bsnamgu.go.kr/
+13,남구,분포도서관,"남구 분포로 97, 분포도서관 (용호동)",35.1320729,129.1152268,051-607-6578,http://library.bsnamgu.go.kr/
+14,동구,동구도서관,동구 성북로36번길 54,35.1376953,129.0514151,051-440-6421,http://www.bsdonggu.go.kr/library/index.donggu
+15,동구,동구어린이영어도서관,동구 수성로21,35.1346055,129.041901,051-440-6476,http://www.bsdonggu.go.kr/kidseng/index.donggu
+16,동구,중앙도서관수정분관,동구 홍곡로 53번지,35.1245964,129.0405332,051-440-0300,https://home.pen.go.kr/joonganglib/main.do
+17,동래구,동래읍성도서관,동래구 칠산동 21-1,35.2071431,129.0948089,051-550-6907,https://lib.dongnae.go.kr/dongnae/
+18,동래구,명장도서관,동래구 명안로46번길 35,35.2008442,129.1065262,051-527-0583,https://home.pen.go.kr/mjlib/main.do
+19,동래구,안락누리도서관,동래구 명안로10번길 64,35.1969686,129.107726,051-550-6916,https://lib.dongnae.go.kr/allak/
+20,부산진구,부산진구어린이청소년도서관,부산진구 백양순환로110번길 25,35.1690114,129.0396257,051-605-5805,https://www.busanjin.go.kr/cylib/index.busanjin
+21,부산진구,부전도서관,부산진구 동천로 79,35.155803,129.0619553,051-802-5902(내선1),https://home.pen.go.kr/bujunlib/tp/tempPage/tempPageView.do?typeCd=imsiPage
+22,부산진구,시민도서관,부산진구 월드컵대로 462,35.1835824,129.0496646,051-810-8260,https://home.pen.go.kr/siminlib/main.do
+23,부산진구,중앙도서관분관부산영어도서관,부산진구 가야대로 734,35.1567786,129.0523588,051-818-2800,http://www.bel.go.kr/newhome/index.php
+24,북구,구포도서관,북구 백양대로1016번다길 43,35.1938699,128.9964159,051-330-6300,https://home.pen.go.kr/gupolib/main.do
+25,북구,금곡도서관,북구 금곡동 92-2,35.2632193,129.0167212,051-309-6193,https://www.bsbukgu.go.kr/bglib/index.bsbukgu
+26,북구,만덕도서관,북구 은행나무로 26,35.2066503,129.0368481,051-309-2096,https://www.bsbukgu.go.kr/mdlib/index.bsbukgu
+27,북구,화명도서관,북구 화명대로12번길 59,35.2323089,129.0093265,051-309-6488,https://www.bsbukgu.go.kr/hmlib/index.bsbukgu
+28,사상구,부산도서관,사상구 사상로310번길 33,35.1727295,128.9852192,051-310-5400,https://library.busan.go.kr/
+29,사상구,사상도서관,사상구 덕상로72번길 9,35.1781347,128.9899416,051-310-7960,https://www.sasang.go.kr/library/index.sasang
+30,사하구,다대도서관,사하구 다대낙조2길 9,35.0504315,128.9646566,051-220-5861,http://www.saha.go.kr/dadaelib/main.do
+31,사하구,사하도서관,사하구 승학로 247,35.1030509,128.991209,051-203-0237(내선1),http://www.saha.go.kr/dadaelib/main.do
+32,서구,구덕도서관,서구 대신공원로 41,35.1229525,129.0177868,051-220-3800,https://home.pen.go.kr/guducklib/tp/tempPage/tempPageView.do?typeCd=imsiPage
+33,수영구,망미도서관,수영구 망미1동 640-15번지,35.1763611,129.1071665,051-610-4702,https://www.suyeong.go.kr/library/index.suyeong
+34,수영구,수영구도서관,수영구 남천서로 33,35.1444569,129.1052371,051-610-4518,https://www.suyeong.go.kr/library/index.suyeong
+35,수영구,수영구어린이도서관,수영구 장대골로 75-6(광안동),35.1595614,129.1049573,051-610-3891,https://www.suyeong.go.kr/library/index.suyeong
+36,연제구,연산도서관,연제구 고분로191번길 16,35.1858597,129.1041167,051-792-5423,https://home.pen.go.kr/yeonsanlib/main.do
+37,연제구,연제도서관,연제구 황령산로 612,35.1741748,129.0829053,051-665-5517,https://www.yeonje.go.kr/library/main.do
+38,영도구,영도도서관,영도구 함지로79번길 6,35.0749591,129.0659843,051-419-4836,https://www.yeonje.go.kr/library/main.do
+39,영도구,영도도서관남항분관,영도구 절영로 71,35.0885212,129.0391042,051-419-5672,https://www.yeongdo.go.kr/library/01351/01981.web
+40,중구,중앙도서관,중구 망양로193번길 146,35.1082874,129.0272009,051-250-0300,https://home.pen.go.kr/joonganglib/main.do
+41,해운대구,반송도서관,해운대구 아랫반송로 22,35.2250889,129.1483078,051-545-0102,https://home.pen.go.kr/bansonglib/tp/tempPage/tempPageView.do?typeCd=imsiPage
+42,해운대구,반여도서관,해운대구 반여3동 1575-78,35.2003938,129.1332514,051-749-6084,http://www.haeundae.go.kr/library/index.do
+43,해운대구,재송어린이도서관,해운대구 재송동 해운대로76번길 35-1,35.1896132,129.1184832,051-749-7634,http://www.haeundae.go.kr/library
+44,해운대구,해운대도서관,해운대구 양운로 183,35.1780402,129.1688998,051-709-0900(내선3),https://home.pen.go.kr/haeundaelib/main.do
+45,해운대구,해운대도서관우동분관,해운대구 우동1로 89,35.1688101,129.1556973,051-742-2167(내선1),https://home.pen.go.kr/haeundaelib/main.do
+46,해운대구,해운대인문학도서관,해운대구 반여로 132,35.2022594,129.1262873,051-749-6585,http://www.haeundae.go.kr/library/index.do
